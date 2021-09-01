@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">VerificaQR</string>
+    <string name="app_version">1.0.1</string>
+    <string name="titulo">Certificado de vacunación</string>
+    <string name="text1">Para verificar</string>
+    <string name="text2">pulse el botón y escanea QR</string>
+    <string name="btnIniciar">ESCANER CERTIFICADO QR</string>
+    <string name="imagenInfo">Información</string>
+    <string name="imagenApp">Logo ScanQR</string>
+    <string name="imagenBandera">Bandera Europa</string>
+    <string name="txt1Info">Desarrollado por</string>
+    <string name="txt2Info">Correo de contacto</string>
+    <string name="txt3Info">Redes Sociales</string>
+    <string name="txt4Info">Código fuente - App Open Source</string>
+    <string name="txtDev">José Ramón Blanco Gutiérrez</string>
+    <string name="txtEmail">jr.cosio1@gmail.com</string>
+    <string name="twitter">https://www.twitter.com/jr_blanco_</string>
+    <string name="instagram">https://www.instagram.com/jr.blanco.cantabria/</string>
+    <string name="github">https://github.com/jrcosio/VerificarQR.git</string>
+    <string name="IMAGEN">Una Imagen</string>
+    <string name="botonOK">OK</string>
+
+    <string name="tituloResultado">CERTIFICADO COVID</string>
+    <string name="resultadoOK">Verificado</string>
+    <string name="resultadoX">No cumple los criterios de validez de España</string>
+
+    <string name="txtResultApellidos">Apellidos</string>
+    <string name="txtResultNombre">Nombre</string>
+    <string name="txtResultFecha">Fecha de nacimiento</string>
+    <string name="txtValidezDNI">Este documento solo es valido acompañado del documento de identidad</string>
+
+
+</resources>
