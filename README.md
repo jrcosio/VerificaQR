@@ -3,7 +3,7 @@ App para Android para verificar la validadez de los certificados de vacunanción
 
 Diseñada y programada por JOSÉ RAMÓN BLANCO GUTIÉRREZ
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjr_blanco_)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjr_blanco_)](https://twitter.com/jr_blanco_)
 
 Documento Oficial del Parlamento Europeo que define la estructura del JSON que contiene el QR Covid:
 - URL: https://ec.europa.eu/health/sites/default/files/ehealth/docs/covid-certificate_json_specification_en.pdf
